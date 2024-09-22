@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecac3301-2e91-4ba1-a12f-841b05c6c7dd" name="Changes" comment="Version 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ecac3301-2e91-4ba1-a12f-841b05c6c7dd" name="Changes" comment="Version 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/rick/PycharmProjects/Module1/pythonProject3"
+    "last_opened_file_path": "C:/Users/rick/PycharmProjects/Module1/pythonProject3",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -77,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727021185136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1727021974371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021974371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Version 1.0">
+      <option name="closed" value="true" />
+      <created>1727022024243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727022024243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
